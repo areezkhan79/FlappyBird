@@ -1025,7 +1025,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipePrefab: {fileID: 4066387899661241672, guid: 7a00896e682ba064fabead21b5863118, type: 3}
-  spawnRate: 2
+  spawnInterval: 2
   heightOffset: 10
 --- !u!4 &1219265242
 Transform:
@@ -1734,11 +1734,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wingUp: {fileID: 1626907989}
   wingDown: {fileID: 330893252}
-  wingFlapInterval: 0.113
+  wingFlapInterval: 0.15
   jumpForce: 20
-  rotationSpeed: 5
-  ascentAngle: 20
-  descentAngle: -20
 --- !u!58 &1980821082
 CircleCollider2D:
   m_ObjectHideFlags: 0
