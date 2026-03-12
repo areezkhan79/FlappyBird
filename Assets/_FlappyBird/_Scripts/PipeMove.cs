@@ -11,6 +11,7 @@ namespace _FlappyBird._Scripts
         [SerializeField] private float moveSpeed = 5f;
 
         private const float DeadZone = -45f;
+        
         private bool IsPipeDead => transform.position.x < DeadZone;
         private void FixedUpdate()
         {

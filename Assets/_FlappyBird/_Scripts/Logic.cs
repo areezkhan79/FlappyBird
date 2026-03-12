@@ -38,8 +38,8 @@ namespace _FlappyBird._Scripts
 
         public void GameOver()
         {
-            GameStateManager.Instance.currentState = GameState.Over;
             StopAllCoroutines();
+            GameStateManager.Instance.currentState = GameState.Over;
             gameOverScreen.SetActive(true);  
         }
     }

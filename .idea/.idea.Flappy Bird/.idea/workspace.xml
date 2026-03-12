@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35490414-e575-4e2b-8bd0-5ad51e476f2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/BirdAnimationController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/BirdAnimationController.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Flappy Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Flappy Bird/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/GameState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/GameStateManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/GameStateManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Scenes/GamePlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Scenes/GamePlay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/Bird.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/Logic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/Logic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/PipeMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/_Scripts/PipeMove.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -97,7 +101,10 @@
       <updated>1773116928975</updated>
       <workItem from="1773116931782" duration="3822000" />
       <workItem from="1773129855906" duration="515000" />
-      <workItem from="1773133998664" duration="6219000" />
+      <workItem from="1773133998664" duration="6673000" />
+      <workItem from="1773203256722" duration="3116000" />
+      <workItem from="1773220419913" duration="4336000" />
+      <workItem from="1773288564889" duration="2338000" />
     </task>
     <servers />
   </component>
